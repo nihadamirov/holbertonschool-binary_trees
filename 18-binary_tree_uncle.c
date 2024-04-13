@@ -12,7 +12,7 @@
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 {
-	int child, childl;
+	binary_tree_t child, childl;
 
 	if (node == NULL)
 		return (NULL);
