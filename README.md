@@ -38,4 +38,4 @@
 ## 👥 Team
 👨‍💻 Nihad Amirov [nihadamirov](https://github.com/nihadamirov)
 
-👨‍💻 Kamran Mahmudov  [rafigmammadov](https://github.com/rafigmammadov)
+👨‍💻 Rafig Mammadov  [rafigmammadov](https://github.com/rafigmammadov)
